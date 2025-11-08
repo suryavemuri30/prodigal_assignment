@@ -2,10 +2,6 @@
 
 This project is a Streamlit web application designed to analyze call center transcripts from debt collection workflows. It leverages the OpenAI API to extract structured insights and validate payment information using advanced LLM-driven Tool Calling, as per the assignment requirements.
 
-## Demo
-
-
-*(**Note:** You should replace the placeholder URL above with a real screenshot of your running application.)*
 
 ## Features
 
